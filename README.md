@@ -9,7 +9,7 @@ Desenvolvedor(a) focado(a) em criar soluções robustas e escaláveis, transitan
 - 🔭 Atualmente trabalhando e aprimorando aplicações Back-end e Web.
 - 💡 Apaixonado(a) por arquitetura de software, APIs RESTful e boas práticas.
 - 🛠️ Sempre buscando otimizar ambientes de desenvolvimento com **Docker** e automações.
-- 📫 Como falar comigo: [seu-email@email.com](mailto:seu-email@email.com) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 📫 Como falar comigo: [E-MAIL](mailto:igorfloress2001@gmail.com | [LinkedIn](https://linkedin.com/in/ofloress999)
 
 ---
 
@@ -33,8 +33,8 @@ Desenvolvedor(a) focado(a) em criar soluções robustas e escaláveis, transitan
 ### 📊 Estatísticas & Linguagens Mais Usadas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oflores999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oflores999&layout=compact&theme=dracula&hide=html,css"/>
 </div>
 
 ---
@@ -42,5 +42,5 @@ Desenvolvedor(a) focado(a) em criar soluções robustas e escaláveis, transitan
 ### 📈 Sequência de Commits (Streak)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oflores999I&theme=dracula" alt="Streak Stats" />
 </div>
