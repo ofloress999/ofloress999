@@ -1,50 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=180&section=header&text=Igor+Flores&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+# Hi there, I'm [Seu Nome] 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=FUTURE+DEVELOPER;GRADUATE+INFORMATION+SYSTEM;STUDENT+IN+IFSULDEMINAS)](https://git.io/typing-svg)
+Desenvolvedor(a) focado(a) em criar soluções robustas e escaláveis, transitando entre o ecossistema **Java / Spring** e **Node.js / TypeScript**.
 
-## ⚡ GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://githubreadmestats.vercel.app/apiusername=ofloress999&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ofloress999's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofloress999&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando e aprimorando aplicações Back-end e Web.
+- 💡 Apaixonado(a) por arquitetura de software, APIs RESTful e boas práticas.
+- 🛠️ Sempre buscando otimizar ambientes de desenvolvimento com **Docker** e automações.
+- 📫 Como falar comigo: [seu-email@email.com](mailto:seu-email@email.com) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+
+---
+
+### 💻 Linguagens & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Ferramentas & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas & Linguagens Mais Usadas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide=html,css"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ofloress999&bg_color=1a1a1a&color=ebf5ee&line=9e4c98&point=FBF9F7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-## 🖥️ Languages:
+### 📈 Sequência de Commits (Streak)
 
-  <div style="display: inline_block"><br>
-  		<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-		<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-		<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-		<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
-
-
-
-
-
-  </div>
-
-## 🧰 Tools:
-
-<div style="display: inline_block"><br>
-	<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula" alt="Streak Stats" />
 </div>
-
-## 📖 Learning:
-
-<div style="display: inline_block"><br>
-	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
- 	<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
-	
-</div>
-
-## 📞 Social Media & Contact:
-
-<div style="display: inline_block"><br>
-	<a href = "mailto:contato.ofloress999@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=120&section=footer"/>
